@@ -8,3 +8,5 @@ Started off leveraging eyecite-ts but transitioned to a pure regex-search paradi
 Most effective vibe-coding approach turned out to be manually generating "gold standard" ToAs and feeding the original briefs + gold standards to Gemini with instruction to iterate the code.
 
 Focused currently on Federal and Connecticut law.
+
+License: CC-BY
